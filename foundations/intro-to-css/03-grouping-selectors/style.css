@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.my-bombo {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.my-bombo.black {
+    color: rgb(255,255,255);
+    background-color: rgb(0,0,0);
+}
+
+.my-bombo.yellow {
+    background-color: #ffff00;
+}
