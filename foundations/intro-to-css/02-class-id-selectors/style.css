@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd-numbered {
+background-color: #FFCCCB;
+font-family: Verdana, 'DejaVu Sans', sans-serif;
+}/* Add CSS Styling */
+
+.odd-numbered.cooler {
+font-size: 24px;
+}
+
+#even-numbered1 {
+color: rgb(0,0,225);
+font-size: 36px;
+}
+
+#even-numbered2 {
+    background-color: rgb(144,238,144);
+    font-size: 24px;
+    font-weight: bold;
+}
